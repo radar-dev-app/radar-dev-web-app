@@ -1,5 +1,9 @@
 <h1 align="center">Radar Dev — Compartilhe cargos, empresas e salários</h1>
 
+<img width="2978" height="1656" alt="image" src="https://github.com/user-attachments/assets/89d90beb-20f4-45fe-9906-9de5142013de" />
+
+### Objetivo
+
 Radar Dev é um projeto da comunidade para que devs brasileiros que trabalham para o exterior compartilhem, de forma anônima, seus cargos, empresas e remunerações. A ideia é dar mais transparência, ajudar todo mundo a evoluir, e focar esforços em empresas que valorizam o desenvolvedor brasileiro.
 
 ### Tech stack
